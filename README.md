@@ -2,14 +2,14 @@
 
 Este repositorio contiene el código desarrollado para el análisis y tratamiento de los datos obtenidos por el detector MuTel (Muon Telescope) del CIEMAT (Centro de Investigación Energética Medioambiental y Tecnológica).
 
-## DAQ
+<!-- ## DAQ
 
 Módulo de adquisición de datos (próximamente).
 
 
 ## DAQ-GUI
 
-Módulo gráfico de adquisición de datos (próximamente).
+Módulo gráfico de adquisición de datos (próximamente). -->
 
 
 ## DQM
